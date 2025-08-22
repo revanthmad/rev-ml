@@ -22,5 +22,5 @@ with st.expander('Data Visualization'):
 with st.sidebar:
   st.header('Input Features')
   island = st.selectbox('Island', ('Biscoe','Dream','Torgersen'))
-  gender = st.seledctbox('Gender',('male','female'))
+  gender = st.selectbox('Gender',('male','female'))
   bill_length_mm = st.slider('Bill Length (mm)', 32.1, 59.6, 43.9)
