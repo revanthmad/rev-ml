@@ -3,8 +3,8 @@ import numpy as np
 import pandas as pd
 from sklearn.ensemble import RandomForestClassifier
 
-st.title("🤖 Rev's ML App ")
-st.info('⚡ This is an app built on a ML model using streamlit')
+st.title("🐧 Penguin Species - Machine Learning Predictions app")
+st.info('⚡ This is a streamlit-based ML app to predict penguin species based on their features like the native island, and gender')
 
 with st.expander('Data'):
   st.write('**Raw Data**')
