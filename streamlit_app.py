@@ -93,7 +93,7 @@ df_prediction_proba.rename(
     2: 'Gentoo'
   }
 )
-
+df_prediction_proba
 
 
 
