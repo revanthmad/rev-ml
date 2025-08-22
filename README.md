@@ -1,7 +1,4 @@
 # 📦 ML app with Streamlit
-```
-⬆️ (Replace above with your app's name)
-```
 
 This is a ML app using streamlit.
 
