@@ -4,7 +4,7 @@ import pandas as pd
 from sklearn.ensemble import RandomForestClassifier
 
 st.title("🐧 Penguin Species - Machine Learning Predictions app")
-st.info('⚡ This is a streamlit-based ML app to predict penguin species based on their two main features i.e., *island and *gender')
+st.info('⚡ This is a streamlit-based ML app to make predctions on the trained penguin species based on their two main features i.e., "island" and "gender"')
 
 with st.expander('Data'):
   st.write('**Raw Data**')
