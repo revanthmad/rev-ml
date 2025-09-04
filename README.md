@@ -1,4 +1,4 @@
-# 📦 ML app with Streamlit
+# 📦 Penguin Species Prediction - a Machine Learning app with Streamlit
 
 This is a ML app using streamlit.
 
